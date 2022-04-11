@@ -1,7 +1,7 @@
 # genescomp
 An application to identify polymorphisms in genomic data
 
-his is the initial release of genescomp. It is intended to provided a detailed view of the characteristics of polymorphims, including intron splice site - mutaations, branch site mutations, nonsense, "resense" (loss of stop codon), non-synonymous changes, and eventually structural changes.
+This is the initial release of genescomp. It is intended to provided a detailed view of the characteristics of polymorphims, including intron splice site - mutaations, branch site mutations, nonsense, "resense" (loss of stop codon), non-synonymous changes, and eventually structural changes.
 This program is written and tested in the Linux, specificly Ubuntu 20.04.
 
 Dependencies:
